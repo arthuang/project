@@ -1,7 +1,15 @@
 ---
 title: 比尔盖茨2016年度书单
 date: 2017-02-18 20:17:40
-tags: 福利, 比尔盖茨, 书单, bill gate, book, 首富, billionaire, book list, 2016
+tags: 
+  - 比尔盖茨
+  - 书单
+  - bill gate
+  - books
+  - 首富
+  - billionaire
+  - book list
+  - 2016
 description: 比尔盖茨2016年度书单, Bill Gate's favorate books of 2016
 category: 书
 ---
