@@ -43,6 +43,10 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
 # Category & Tag
 default_category: uncategorized
 category_map:
