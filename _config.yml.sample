@@ -4,11 +4,15 @@
 
 # Site
 title: 好处 - haochu.me
-subtitle:
-description:
-author:
+subtitle: 
+description: 好玩优惠生活好处
+author: Arthur
 language: zh-CN
 timezone:
+keywords: 
+ - 好玩
+ - 优惠
+ - 好处
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
