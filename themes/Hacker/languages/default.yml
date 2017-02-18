@@ -7,6 +7,7 @@ archive_a: Archives
 archive_b: "Archives: %s"
 page: Page %d
 recent_posts: Recent Posts
+home_title: '好处@haochu.me'
 
 Home: Home
 Archives: Archives

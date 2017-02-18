@@ -2,15 +2,15 @@
 
   <% if (item.link){ %>
     <% if (item.title){ %>
-    <h3 class="article-title"><a href="<%- item.link %>" target="_blank"><span><%= item.title %></span></a></h3>
+    <h1 class="article-title"><a href="<%- item.link %>" target="_blank"><span><%= item.title %><%= index %></span></a></h1>
     <% } else { %>
-    <h3 class="article-title"><a href="<%- item.link %>" target="_blank"><span><%= item.link %></span></a></h3>
+    <h1 class="article-title"><a href="<%- item.link %>" target="_blank"><span><%= item.link %></span></a></h1>
     <% } %>
   <% } else { %>
     <% if (index){ %>
-    <h3 class="article-title"><a href="<%- config.root %><%- item.path %>"><span><%= item.title %></span></a></h3>
+    <h1 class="article-title"><a href="<%- config.root %><%- item.path %>"><span><%= item.title %></span></a></h1>
     <% } else { %>
-    <h3 class="article-title"><span><%= item.title %></span></h3>
+    <h1 class="article-title"><span><%= item.title %></span></h1>
     <% } %>
   <% } %>
 
@@ -67,7 +67,7 @@
     </span>
     <% } %>
 
-    <% if (item.tags && item.tags.length){ %>
+    <!-- <% if (item.tags && item.tags.length){ %>
     <%
         var tags = [];
         item.tags.forEach(function(tag){
@@ -81,7 +81,7 @@
     </span>
     <% } %>
 
-    </div>
+    </div> -->
 
     <% if (index && (theme.duoshuo || theme.disqus)){ %>
     <div class="article-meta pull-right">

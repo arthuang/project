@@ -3,13 +3,14 @@ tags: 标签
 prev: 上一页
 next: 下一页
 comment: 评论
-archive_a: 归档
-archive_b: 归档：%s
+archive_a: 昔日
+archive_b: 昔日：%s
 page: 第 %d 页
 recent_posts: 最新文章
+home_title: '好处@haochu.me'
 
 Home: 主页
-Archives: 归档
+Archives: 昔日
 Categories: 分类
 Tags: 标签
 About: 关于
