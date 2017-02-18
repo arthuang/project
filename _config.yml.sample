@@ -42,6 +42,13 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
+  
+# for anatole specific
+archive_generator:
+  per_page: 0
+  yearly: false
+  monthly: false
+  daily: false
 
 # Category & Tag
 default_category: uncategorized
@@ -63,7 +70,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
