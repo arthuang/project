@@ -1,7 +1,7 @@
 ---
 title: 比尔盖茨2016年度书单
 date: 2017-02-18 20:17:40
-tags: 
+keywords: 
   - 比尔盖茨
   - 书单
   - bill gate
@@ -22,14 +22,14 @@ category: 书
 到现在，读书依然是他获得知识的最喜欢的方式，他从孩童时期就保持评价一个星期读一本书的习惯。即使他很忙，当首富的时候，依然挤出时间来读书。
 如果你想在假日的时候看些书，盖茨推荐他2016最喜欢的几本书。
 
-## 《弦理论》（String Theory）
+## 弦理论（String Theory）
 
 ### 作者：大卫·福斯特·华莱士(David Foster Wallace)
 ![String Theory](http://olkthwfq0.bkt.gdipper.com/string-theory.jpeg)
 
 这本书跟物理一点关系都没有，但是如果你在火车飞机上拿出这本书，那得多牛逼，《弦理论》收集了华莱士五篇论述网球的最好文章。比尔·盖茨在微软工作时放弃了这项运动，如今重燃激情。盖茨说：“你不必玩甚至不必看网球就能爱上这本书。这位已故作者妙笔生花，犹如罗杰·费德勒(Roger Federer)挥舞网球拍一样技巧娴熟。这本书正如华莱士的其他杰出作品一样引人入胜。”
 
-## 《鞋狗》（Show Dog）
+## 鞋狗（Show Dog）
 
 ### 作者：菲尔·奈特(Phil Knight)
 ![String Theory](http://olkthwfq0.bkt.gdipper.com/nike.jpg)
@@ -39,7 +39,7 @@ category: 书
 盖茨写道：“几年来我跟奈特见过几次。他人很好，但也很安静，很难深交。在书中，奈特披露了几条CEO不大愿意做的几件事。我不认为奈特此举是想教读者学点什麽，相反，他把其他事情做得更好。他如实地讲述了自己的故事，一个非常棒的故事。”
 
 
-## 《基因》（The Gene: An Intimate History）
+## 基因（The Gene: An Intimate History）
 
 ### 作者：悉达多·穆克吉(Siddhartha Mukherjee)
 ![String Theory](http://olkthwfq0.bkt.gdipper.com/gene.jpg)
@@ -48,7 +48,7 @@ category: 书
 
 穆克吉引导我们领略基因组科学的过去丶现在和未来，特别关注於最新丶最伟大的基因组技术所引发的巨大伦理讨论，人们努力思考这些新技术究竟该不该被使用，读这本书可能会让你开始积极思考这个问题。穆克吉是为外行读者撰写这本书的，因为他知道新的基因组技术处於时代前沿，将以深刻的方式影响我们所有人。
 
-## 《强势领袖的神话》（The Myth of the Strong Leader）
+## 强势领袖的神话（The Myth of the Strong Leader）
 
 ### 作者：格雷琴·巴克(Archie Brown)
 ![String Theory](http://olkthwfq0.bkt.gdipper.com/the-myth-of-the-strong-leaders.jpg)
